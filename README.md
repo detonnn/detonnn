@@ -1,16 +1,162 @@
-## Hi there 👋
+<h1 align="center">detonnn / README.md</h1>
 
-<!--
-**detonnn/detonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dex+%F0%9F%91%8B;Developer+%C2%B7+Design+Student;Building+my+own+dev+ecosystem;Vue+%C2%B7+React+%C2%B7+Node+%C2%B7+Python" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/detonnn"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ibnu-dexton.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://atticsstd.vercel.app/"><img src="https://img.shields.io/badge/ATTICS.STD-FF00AA?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
+</p>
+
+---
+
+### 👤 About Me
+
+I'm a self-taught developer and visual communication design student, building out my own personal developer ecosystem from scratch — portfolios, local AI tooling, and DevOps automation.
+
+My interests and work cover:
+
+🖥️ Frontend & Portfolio Engineering.... 🤖 AI Routing & Local LLM Tooling.... 🔧 DevOps Automation.... 🎨 Design & Branding.... 📱 Telegram Bot Systems.... 🧠 Computer Vision Experiments
+
+I like building things that are mine end-to-end — from the UI down to the infra that keeps it running.
+
+### 🌐 What I've Shipped
+
+| Project | Link |
+|---|---|
+| 💼 Personal Portfolio | [ibnu-dexton.vercel.app](https://dxtnn.site/) |
+| 🖤 attics.std (streetwear brand) | [atticsstd.vercel.app](https://atticsstd.vercel.app/) |
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
+**AI / Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Local AI Routing](https://img.shields.io/badge/9Router-Local%20AI%20Proxy-8A2BE2?style=for-the-badge)
+
+**Bots & Automation**
+
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Deployment & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+### 🚀 What I'm Building
+
+- 🌐 **Personal Portfolio (Vue.js)** — active dev hub, custom animations, self-hosted AI chatbot widget, live GitHub contributions view
+- 🧩 **9Router** — a local AI routing proxy connecting my own models into tools like `opencode`
+- 🤖 **Telegram DevOps Bot** — remote control system to manage, restart, and deploy my projects straight from Telegram
+- 👋 **Hand Tracking** — Python + OpenCV + MediaPipe experiments with live phone-camera streaming
+- 🖤 **attics.std** — my own streetwear/graphic design brand, full website live at [atticsstd.vercel.app](https://atticsstd.vercel.app/)
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/detonnn/detonnn/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
+</p>
+
+> This snake animates automatically from your real contribution graph — it's generated by a GitHub Action, not a static image. Setup below. ⬇️
+
+<details>
+<summary>⚙️ How to activate the snake (one-time setup)</summary>
+
+1. Create `.github/workflows/snake.yml` in your `detonnn/detonnn` profile repo with this content:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: detonnn
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it, then run the workflow once manually (Actions tab → Generate Snake → Run workflow).
+3. It'll create an `output` branch with the generated SVGs — the image embed above will then render live and auto-update daily.
+
+</details>
+
+### 📊 Animated Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=detonnn&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=detonnn&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detonnn&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+### 📌 Currently Learning
+
+Advanced JavaScript & Vue ecosystem tooling · Local LLM infrastructure · DevOps automation patterns
+
+### 🌍 Languages
+
+🇮🇩 Indonesian — Native &nbsp;·&nbsp; 🇬🇧 English — Working Proficiency
+
+### 📫 Let's Connect
+
+Open to talking about frontend engineering, personal dev tooling, AI infra, and design.
+
+<p align="center">Build · Break · Fix · Ship</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+</p>

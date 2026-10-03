@@ -32,7 +32,7 @@ I like building things that are mine end-to-end — from the UI down to the infr
 
 | Project | Link |
 |---|---|
-| 💼 Personal Portfolio | [ibnu-dexton.vercel.app](https://dxtnn.site/) |
+| 💼 Personal Portfolio | | (https://dxtnn.site/) |
 | 🖤 attics.std (streetwear brand) | [atticsstd.vercel.app](https://atticsstd.vercel.app/) |
 
 ### 🛠️ Tech Stack

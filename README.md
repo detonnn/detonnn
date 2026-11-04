@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/detonnn"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://ibnu-dexton.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://dxtnn.site/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://atticsstd.vercel.app/"><img src="https://img.shields.io/badge/ATTICS.STD-FF00AA?style=for-the-badge&logo=shopify&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>

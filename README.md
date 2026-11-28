@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dex+%F0%9F%91%8B;Developer+%C2%B7+Design+Student;Building+my+own+dev+ecosystem;Vue+%C2%B7+React+%C2%B7+Node+%C2%B7+Python" alt="Typing SVG" />
 </p>
-
+ 
 <p align="center">
   <a href="https://github.com/detonnn"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://dxtnn.site/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
